@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9f874f1-0ea8-4666-b6ec-6adfd9def778" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TD1_Shape/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD1_Shape/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD1_Shape/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD1_Shape/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD1_Shape/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD1_Shape/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD1_Shape/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TD1_Universite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/IPersonnel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/IPersonnel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,12 +31,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1148" />
+          <entry key="java" value="1149" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1148" />
+          <entry key="JAVA" value="1149" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -71,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/IPersonnel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="64">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -111,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/EchelonBourse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="208">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -184,13 +177,13 @@
         <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/EnseignantTemporaire.java" />
         <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/Enseignant.java" />
         <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/EnseignantPermanent.java" />
-        <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/IPersonnel.java" />
         <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/Personnel.java" />
         <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/INumero.java" />
         <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/NumeroPersonnel.java" />
         <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/IBoursier.java" />
         <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/Etudiant.java" />
         <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/EchelonBourse.java" />
+        <option value="$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/IPersonnel.java" />
       </list>
     </option>
   </component>
@@ -200,7 +193,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -255,7 +248,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539005513365" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539009357223" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -291,15 +284,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538999580431</updated>
-      <workItem from="1538999588347" duration="6439000" />
+      <workItem from="1538999588347" duration="6449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6439000" />
+    <option name="totallyTimeSpent" value="6449000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -437,17 +430,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/IPersonnel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/INumero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/Etudiant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/EchelonBourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/IBoursier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -462,24 +469,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/IBoursier.java">
+    <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/api/IPersonnel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/Etudiant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/parisnanterre/miage/poa/universite/implem/EchelonBourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="64">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
