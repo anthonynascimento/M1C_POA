@@ -16,7 +16,7 @@ public class Etudiant extends Personnel implements IBoursier {
         switch (echelon) {
             case 0: return 100.0;
             case 1: return 200.0;
-            case 2
+            default: return 0;
         }
     }
 
